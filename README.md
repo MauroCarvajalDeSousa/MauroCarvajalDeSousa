@@ -4,7 +4,7 @@
 - Medium: https://medium.com/@mauro.carvajaldesousa
 
 
-<img src="/images/joke.png" width="550" />
+<img src="/images/joke.png" width="500" />
 <!--
 **MauroCarvajalDeSousa/MauroCarvajalDeSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
