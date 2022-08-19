@@ -1,10 +1,11 @@
-# Bienvenid@ a mi perfil de GitHub! 👋
-## Mauro Carvajal de Sousa || Contacto
+# <p align="center"> Bienvenid@ a mi perfil de GitHub! 👋 </p>
+
+# Contacto
 - LinkedIn: https://www.linkedin.com/in/maurocarvajaldesousa
 - Medium: https://medium.com/@mauro.carvajaldesousa
 
 <p align="center">
-  <img src="/images/joke.png" width="600" align="middle"/>
+  <img src="/images/joke.png" width="500" align="middle"/>
 </p>
 <!--
 **MauroCarvajalDeSousa/MauroCarvajalDeSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
