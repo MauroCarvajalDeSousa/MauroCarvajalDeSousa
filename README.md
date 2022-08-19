@@ -3,7 +3,8 @@
 - LinkedIn: https://www.linkedin.com/in/maurocarvajaldesousa
 - Medium: https://medium.com/@mauro.carvajaldesousa
 
-![Esta es una imagen](/images/joke.png)
+
+<img src="/images/joke.png" width="550" />
 <!--
 **MauroCarvajalDeSousa/MauroCarvajalDeSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Esta es una imagen](/images/joke.png)
 -->
