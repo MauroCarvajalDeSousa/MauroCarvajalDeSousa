@@ -4,7 +4,7 @@
 #### Now specially interested in web development: JavaScript, NodeJS, ExpressJS, ReactJS ...
 #### I wanna improve my coding skills... that's why I'm here. In order to learn and share code with the community.
 
-### Contact
+### Contact me
 📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa
 <!--
 - Medium: https://medium.com/@mauro.carvajaldesousa
