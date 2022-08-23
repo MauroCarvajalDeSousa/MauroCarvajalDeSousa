@@ -1,7 +1,11 @@
-# <p align="center"> Bienvenid@ a mi perfil de GitHub! 👋 </p>
+# <p align="center"> Hi! I'm Mauro Carvajal de Sousa 👋 :argentina: :it:</p>
 
-# Contacto
-- LinkedIn: https://www.linkedin.com/in/maurocarvajaldesousa
+#### Welcome to my GitHub profile! I'm a IT professional.  More than 10 years being part of the information technology industry (quality assurance, functional analysis, data analysis... and so on).
+#### Now specially interested in web development: JavaScript, NodeJS, ExpressJS, ReactJS ...
+#### I wanna improve my coding skills... that's why I'm here. In order to learn and share code with the community.
+
+### Contact
+📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa
 <!--
 - Medium: https://medium.com/@mauro.carvajaldesousa
 -->
