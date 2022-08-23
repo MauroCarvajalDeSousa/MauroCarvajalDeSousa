@@ -6,7 +6,7 @@
 #### Happy hacking!
 
 <p align="center">
-  <img src="/images/joke.png" width="300" align="middle"/>
+  <img src="/images/joke.png" width="350" align="middle"/>
 </p>
 <!--
 - Medium: https://medium.com/@mauro.carvajaldesousa
