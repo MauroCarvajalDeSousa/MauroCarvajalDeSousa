@@ -2,8 +2,9 @@
 
 # Contacto
 - LinkedIn: https://www.linkedin.com/in/maurocarvajaldesousa
+<!--
 - Medium: https://medium.com/@mauro.carvajaldesousa
-
+-->
 <p align="center">
   <img src="/images/joke.png" width="500" align="middle"/>
 </p>
