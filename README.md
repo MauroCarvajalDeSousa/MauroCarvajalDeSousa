@@ -1,17 +1,18 @@
 # <p align="center"> Hi! I'm Mauro Carvajal de Sousa 👋 :argentina: :it:</p>
 
 #### Welcome to my GitHub profile! I'm a IT professional.  More than 10 years being part of the information technology industry (quality assurance, functional analysis, data analysis... and so on).
-#### Now specially interested in web development: JavaScript, NodeJS, ExpressJS, ReactJS ...
-#### I wanna improve my coding skills... that's why I'm here. In order to learn and share code with the community.
+#### Now specially interested in improving my coding skills: JavaScript, NodeJS, ExpressJS, ReactJS ...
+#### ...that's why I'm here. In order to learn and share code with the community.  Happy hacking!
 
-### Contact me
+<p align="center">
+  <img src="/images/joke.png" width="300" align="middle"/>
+</p>
+
 📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa
+
 <!--
 - Medium: https://medium.com/@mauro.carvajaldesousa
 -->
-<p align="center">
-  <img src="/images/joke.png" width="500" align="middle"/>
-</p>
 <!--
 **MauroCarvajalDeSousa/MauroCarvajalDeSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
