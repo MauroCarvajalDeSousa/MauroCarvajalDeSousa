@@ -1,4 +1,4 @@
-# <p align="center"> Hi! I'm Mauro Carvajal de Sousa 👋 :argentina: :it:</p>
+# <p align="center"> Hi! I'm Mauro Carvajal de Sousa 👋 :argentina:</p>
 <!-- 📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa -->
 #### Welcome to my GitHub profile! I'm a IT professional.
 #### Now specially interested in improving my coding skills: JavaScript, NodeJS, ExpressJS, ReactJS ...
