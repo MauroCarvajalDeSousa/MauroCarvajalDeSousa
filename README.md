@@ -1,7 +1,8 @@
 # <p align="center"> Hi! I'm Mauro Carvajal de Sousa 👋 :argentina:</p>
 <!-- 📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa -->
-#### Welcome to my GitHub profile! I'm a IT professional.  Now I'm specially interested in improving my coding skills: JavaScript, NodeJS, ExpressJS, ReactJS ...
-#### ...that's why I'm here. In order to learn and share code with the community.
+#### Welcome to my GitHub profile! I'm an IT professional specially interested in improving my coding skills. I've joined this community in order to learn new things from all of you and share my pieces of code.
+#### ⚡ I’m currently working on HTML5, CSS3, JavaScript, NodeJS, ReactJS ... and so on
+#### Welcome to my GitHub profile!
 #### Happy hacking!
 
 <!--
