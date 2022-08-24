@@ -5,6 +5,7 @@
 #### ...that's why I'm here. In order to learn and share code with the community.
 #### Happy hacking!
 
+<!--
 <p align="center">
   <img src="/images/joke.png" width="350" align="middle"/>
 </p>
