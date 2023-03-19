@@ -4,7 +4,7 @@
 
 #### Welcome to my GitHub profile! I'm an IT professional and a Sports Coach. I have joined this community in order to improve my coding skills learning new things from all of you and also to share my pieces of code and projects.
 
-#### ⚡ Currently working on JavaScript, NodeJS, ReactJS ... and so on.
+#### ⚡ Currently working on JavaScript, NodeJS, ReactJS and Python.
 
 #### Welcome to my GitHub profile!
 
