@@ -2,9 +2,9 @@
 
 <!-- 📫 Linkedin: https://www.linkedin.com/in/maurocarvajaldesousa -->
 
-#### Welcome to my GitHub profile! I'm an IT professional and a Sports Coach. I have joined this community in order to improve my coding skills learning new things from all of you and also to share my pieces of code and projects.
+#### Welcome to my GitHub profile! I'm an IT professional and a Sports Coach. I have joined this community in order to improve my coding skills learning new things from all of you and also to share my pieces of code and projects. I've been learning web development (technologies: JavaScript, NodeJS, ReactJS)
 
-#### ⚡ Currently working on JavaScript, NodeJS, ReactJS and Python.
+#### ⚡ Currently working on data analysis with Python (libraries: NumPy, PanDas, Matplotlib and Seaborn)
 
 #### Welcome to my GitHub profile!
 
