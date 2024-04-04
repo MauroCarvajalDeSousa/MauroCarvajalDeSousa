@@ -4,7 +4,9 @@
 
 #### Welcome to my GitHub profile! I'm an IT professional and a Sports Coach. I have joined this community in order to improve my web development skills learning new things from all of you and also to share my pieces of code and projects.
 
-#### ⚡ Currently working on Data Analysis projects (turning raw, messy data into useful insights by cleaning the data up, transforming it, manipulating it, and inspecting it.  All of this coding Python, taking advantage of its huge amount of available libraries).
+#### ⚡ I've been working on data analysis projects (turning raw, messy data into useful insights by cleaning the data up, transforming it, manipulating it, and inspecting it.  All of this coding Python, taking advantage of its huge amount of available libraries: for example Pandas, Matplotlib and Numpy).
+
+#### 🤖 Now I'm working on AI projects (Learning and using the Python SDK for the Gemini API in order to access to Google's Gemini LLMs)
 
 #### Welcome to my GitHub profile!
 
