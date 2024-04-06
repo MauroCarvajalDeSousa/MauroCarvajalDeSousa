@@ -6,7 +6,7 @@
 
 #### ⚡ I've been working on data analysis projects (turning raw, messy data into useful insights by cleaning the data up, transforming it, manipulating it, and inspecting it.  All of this coding Python, taking advantage of its huge amount of available libraries: for example Pandas, Matplotlib and Numpy).
 
-#### 🤖 Now I'm working on AI projects.  Learning Python SDK for the Gemini API.
+#### 🤖 Now I'm working on AI projects.
 
 #### Welcome to my GitHub profile!
 
